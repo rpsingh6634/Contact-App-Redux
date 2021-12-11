@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Contact-App-Redux/static/js/main.bae7c9d2.chunk.js",
+    "main.js.map": "/Contact-App-Redux/static/js/main.bae7c9d2.chunk.js.map",
+    "runtime-main.js": "/Contact-App-Redux/static/js/runtime-main.14e0b99f.js",
+    "runtime-main.js.map": "/Contact-App-Redux/static/js/runtime-main.14e0b99f.js.map",
+    "static/css/2.9f0b74ee.chunk.css": "/Contact-App-Redux/static/css/2.9f0b74ee.chunk.css",
+    "static/js/2.e2d6b7a5.chunk.js": "/Contact-App-Redux/static/js/2.e2d6b7a5.chunk.js",
+    "static/js/2.e2d6b7a5.chunk.js.map": "/Contact-App-Redux/static/js/2.e2d6b7a5.chunk.js.map",
+    "index.html": "/Contact-App-Redux/index.html",
+    "static/css/2.9f0b74ee.chunk.css.map": "/Contact-App-Redux/static/css/2.9f0b74ee.chunk.css.map",
+    "static/js/2.e2d6b7a5.chunk.js.LICENSE.txt": "/Contact-App-Redux/static/js/2.e2d6b7a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14e0b99f.js",
+    "static/css/2.9f0b74ee.chunk.css",
+    "static/js/2.e2d6b7a5.chunk.js",
+    "static/js/main.bae7c9d2.chunk.js"
+  ]
+}
